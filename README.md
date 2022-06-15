@@ -7,7 +7,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-fakhrie&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adam-fakhrie&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adam-fakhrie&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adam-fakhrie&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adam-fakhrie&show_icons=true&layout=compact&theme=github_light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
